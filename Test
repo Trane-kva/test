@@ -5,5 +5,8 @@ public static void main(String args[])
     System.out.println("Hello World!!");
     Scanner sc = new Scanner(System.in);
     int i = sc.nextInt;
-    double e;
+
+    double d;
+    Sting s;
+
 }
