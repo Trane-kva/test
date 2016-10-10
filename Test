@@ -3,3 +3,14 @@
 
 
 ИЗМЕНЕНИЕ 2
+
+
+
+INSERTION 3
+
+export java.util.Scanner; 
+
+public static void main(String args[])
+{
+    System.out.println("Hello World!!");
+}
